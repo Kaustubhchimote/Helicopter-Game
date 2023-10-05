@@ -1,2 +1,2 @@
 # Helicopter-Game
-A simple Helicopter Game made in c++
+A simple Helicopter Game made solely in c++
